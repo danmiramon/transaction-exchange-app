@@ -1,0 +1,20 @@
+.history tbody td {
+    border: 1px solid #AAA;
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+.history thead td {
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+.history thead {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.history tbody tr:nth-child(odd) {
+    background-color: #DDD;
+
+}

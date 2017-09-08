@@ -1,0 +1,12 @@
+.exchange thead {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.exchange td {
+    text-align: left;
+}
+
+.exchange input {
+    font-size: 18px;
+}
